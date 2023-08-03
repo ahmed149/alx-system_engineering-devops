@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 chown julien chgrp julien hello
+chmod 711 chown julien chgrp julien hello
